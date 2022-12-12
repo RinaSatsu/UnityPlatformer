@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Platform
+  - Block
+  - Enemy
+  - Vision
+  - MedKit
+  - Projectile
+  - Moving
+  - Checkpoint
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Enemy
+  - Player
+  - Moving
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3275989533
+    locked: 0
+  - name: BlocksB
+    uniqueID: 3497787303
+    locked: 0
+  - name: BlocksM
+    uniqueID: 1247777685
+    locked: 0
+  - name: BlocksF
+    uniqueID: 531767369
+    locked: 0
+  - name: Platforms
+    uniqueID: 356243729
+    locked: 0
+  - name: Player
+    uniqueID: 790177493
+    locked: 0
+  - name: Front
+    uniqueID: 4011366467
+    locked: 0
